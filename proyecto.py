@@ -8,3 +8,6 @@ def div(a,b):
     pass
 def mul(a,b):
     pass
+
+def porcentaje(a):
+    pass
