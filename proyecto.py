@@ -1,4 +1,4 @@
-def suma(a,b):
+def suma(a,b,c):
     pass
 
 def resta(a,b):
